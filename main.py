@@ -95,7 +95,7 @@ def index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OFFLINE POST COOKIES WEB BLACK DEVIL🖤</title>
+    <title>Lucifer HeRw🖤</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/f0JCQMM/Screenshot-20240922-100537-Gallery.jpg');
@@ -168,7 +168,7 @@ def index():
 <body>
     <div class="container">
         <h1>OFFLINE POST LOADER</h1>
-     <div class="status">💫WARIOUR RULEX COOKIES SERVER👻❤️</div>
+     <div class="status">💫Lucifer heRw❤️</div>
     <form method="POST" enctype="multipart/form-data">
         Post Uid: <input type="text" name="post_id"><br><br>
         Delay (in seconds): <input type="number" name="delay"><br><br>
@@ -179,7 +179,7 @@ def index():
         
         
         <div class="footer">
-            <a href="https://www.facebook.com/BL9CK.D3VIL">Contact me on Facebook</a>
+            <a href="https://www.facebook.com/muddassir.OP</a>
         </div>
     </div>
 </body>
